@@ -61,10 +61,7 @@ TO DO Today is an easy to use productivity application used to manage and keep t
 ## Contributing
 
 Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+edit the source code and commit a pull request.
 
 
 ## License
