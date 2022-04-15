@@ -29,13 +29,13 @@ TO DO Today is an easy to use productivity application used to manage and keep t
 - path
 ## Installation
 
-- Clone directory.
+- Clone Repository to local computer.
 
 ```bash
-  npm run deploy
+  git clone https://github.com/RoDDy18/ToDoToday.git
 ```
 
-- Build project to any platform.
+- Open and build project for platform.
 
 
 ## Features
