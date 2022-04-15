@@ -28,7 +28,7 @@ TO DO Today is an easy to use productivity application used to manage and keep t
 - sqflite
 - path
 ## Installation
-
+- Install Git.
 - Clone Repository to local computer.
 
 ```bash
