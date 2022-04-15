@@ -1,6 +1,3 @@
-
-![Logo](https://github.com/RoDDy18/ToDoToday/blob/main/assets/todo.png?raw=true)
-
 <img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/todo.png?raw=true" width = "400" height = "400">
 
 
@@ -48,7 +45,9 @@ TO DO Today is an easy to use productivity application used to manage and keep t
 
 
 ## Screenshots
-<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday2.jpg?raw=true" width = "700" height = "920">
+<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday2.jpg?raw=true" width = "600" height = "800">
+
+<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday1.jpg?raw=true" width = "600" height = "800">
 ![App Screenshot](https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday2.jpg?raw=true =200x200)
 
 ![App Screenshot](https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday1.jpg?raw=true =200x200)
