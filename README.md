@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/RoDDy18/ToDoToday/blob/main/assets/todo.png?raw=true =200x200)
+![](https://github.com/RoDDy18/ToDoToday/blob/main/assets/todo.png?raw=true =200x200)
 
 
 # TO DO Today
