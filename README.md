@@ -45,9 +45,9 @@ TO DO Today is an easy to use productivity application used to manage and keep t
 
 
 ## Screenshots
-<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday2.jpg?raw=true" width = "290" height = "600">
+<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday2.jpg?raw=true" width = "285" height = "600">
 
-<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday1.jpg?raw=true" width = "290" height = "600">
+<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/TodoToday1.jpg?raw=true" width = "285" height = "600">
 
 ## Theme Color Reference
 
