@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/RoDDy18/ToDoToday/blob/main/assets/todo.png?raw=true)
 
-![Logo]<img src=https://github.com/RoDDy18/ToDoToday/blob/main/assets/todo.png?raw=true width = 100 height = 100>
+![Logo]<img src="https://github.com/RoDDy18/ToDoToday/blob/main/assets/todo.png?raw=true" width = "100" height = "100">
 
 
 # TO DO Today
